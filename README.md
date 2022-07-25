@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adem
 - 👀 I’m interested in web development, construction, engineering, 3D modeling
 - 🌱 I’m currently learning HTML,CSS,JS,React
-- 💞️ I’m looking to collaborate on Front-End Development Projects
+- 💞️ I’m working hard to be a fullstack developer
 - 📫 How to reach me aladagadem@gmail.com
 
 <!---
